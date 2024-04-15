@@ -12,6 +12,7 @@ def main():
     sqrtLib.c_sqrt.restype = ct.c_double
 
     print(sqrtLib.c_sqrt(2.0)) # success!
+    compare_functions(sqrtLib.c_sqrt, sqrt)
 
 if __name__ == "__main__":
     main()

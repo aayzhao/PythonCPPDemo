@@ -3,7 +3,7 @@ import time
 
 def time_function(func) -> float:
     start = time.time()
-    for i in range(4000000):
+    for i in range(4_000_000):
         func(i)
     end = time.time()
     elapsed = end - start

@@ -11,3 +11,6 @@ https://www.geeksforgeeks.org/using-pointers-in-python-using-ctypes/#
 https://github.com/aayzhao/MatherCPPtoVBA
 
 https://docs.python.org/3/library/ctypes.html# <- official Python documentation!
+
+The link to the presentation is here:
+https://docs.google.com/presentation/d/1xe2qH-FGfERd0xmQaKelqoyfGGw8XU530_bxFFMYnEo/edit?usp=sharing
